@@ -43,24 +43,15 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,nodejs&theme=dark&perline=8" alt="My Tech Stack">
+</a>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,gcp,vscode,ps,ai&theme=dark&perline=7" alt="Tools and Technologies">
+</a>
 
 </div>
 
@@ -158,7 +149,7 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <a href="https://star-history.com/#MrHassaanX/*&Date">
 
-<img src="https://api.star-history.com/image?repos=MrHassaanX/Basic-Server-Setup,MrHassaanX/staxmc-web-code,MrHassaanX/SafteyHubApp&timeline=all" width="100%" alt="Star History">
+<img src="https://api.star-history.com/image?repos=MrHassaanX/Basic-Server-Setup,MrHassaanX/staxmc-web-code,MrHassaanX/StaxStudio&timeline=all" width="100%" alt="Star History">
 
 </a>
 
@@ -170,22 +161,22 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <div align="center">
 
+<a href="https://github.com/MrHassaanX/StaxStudio">
+  <img src="https://img.shields.io/badge/StaxStudio-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71" alt="StaxStudio" height="36">
+</a>
+
 <a href="https://github.com/MrHassaanX/Basic-Server-Setup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrHassaanX&repo=Basic-Server-Setup&theme=dark&hide_border=true" alt="Basic Server Setup">
+  <img src="https://img.shields.io/badge/Basic%20Server%20Setup-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71" alt="Basic Server Setup" height="36">
 </a>
 
-<a href="https://github.com/MrHassaanX/SafteyHubApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrHassaanX&repo=SafteyHubApp&theme=dark&hide_border=true" alt="SafetyHubApp">
-</a>
-
-<br>
+<br><br>
 
 <a href="https://github.com/MrHassaanX/staxmc-web-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrHassaanX&repo=staxmc-web-code&theme=dark&hide_border=true" alt="StaxMC Web">
+  <img src="https://img.shields.io/badge/StaxMC%20Web-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71" alt="StaxMC Web" height="36">
 </a>
 
 <a href="https://github.com/MrHassaanX/VVCE-MC-WEBPAGE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrHassaanX&repo=VVCE-MC-WEBPAGE&theme=dark&hide_border=true" alt="VVCE Minecraft Webpage">
+  <img src="https://img.shields.io/badge/VVCE%20Minecraft%20Webpage-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71" alt="VVCE Minecraft Webpage" height="36">
 </a>
 
 </div>
