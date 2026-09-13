@@ -83,13 +83,13 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50"><br>
-<sub><b>Node.js</b></sub>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"><br>
+<sub><b>React</b></sub>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"><br>
-<sub><b>React</b></sub>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50"><br>
+<sub><b>Node.js</b></sub>
 </td>
 
 </tr>
@@ -107,6 +107,26 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="50"><br>
+<sub><b>IntelliJ IDEA</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="50"><br>
+<sub><b>Gradle</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"><br>
+<sub><b>MySQL</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=discordjs&theme=dark" width="50"><br>
+<sub><b>Discord.js</b></sub>
+</td>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="50"><br>
 <sub><b>Google Cloud</b></sub>
 </td>
@@ -117,23 +137,8 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=discordjs&theme=dark" width="50"><br>
-<sub><b>Discord.js</b></sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"><br>
-<sub><b>MySQL</b></sub>
-</td>
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" width="50"><br>
 <sub><b>Photoshop</b></sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="50"><br>
-<sub><b>Gradle</b></sub>
 </td>
 
 </tr>
