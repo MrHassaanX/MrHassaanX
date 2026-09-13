@@ -1,136 +1,87 @@
 <div align="center">
 
-# `HASSAAN.exe`
-
-### CSE • Builder • Gamer • Always shipping something
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=180&section=header&text=MRHASSAANX&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20REPEAT&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0D,45:111815,100:19A463&height=230&section=header&text=MOHAMMED%20HASSAAN&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=CSE%20STUDENT%20%20%E2%80%A2%20%20BUILDER%20%20%E2%80%A2%20%20GAMER&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
 
 <br>
 
-<a href="https://github.com/MrHassaanX">
-  <img src="https://img.shields.io/badge/GITHUB-MrHassaanX-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-<a href="https://nothassan.com/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-nothassan.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d084" />
-</a>
-<a href="mailto:asushassaan016@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" />
-</a>
+<img src="https://img.shields.io/badge/OPEN%20TO-BUILDING-19A463?style=for-the-badge&labelColor=0B0F0D" />
+<img src="https://img.shields.io/badge/LEARNING-JAVASCRIPT%20%2B%20NODE.JS-19A463?style=for-the-badge&labelColor=0B0F0D" />
+<img src="https://img.shields.io/badge/BASED%20IN-INDIA-19A463?style=for-the-badge&labelColor=0B0F0D" />
+
+<br><br>
+
+<a href="https://nothassan.com/"><img src="https://img.shields.io/badge/PORTFOLIO-nothassan.com-161B22?style=flat-square&logo=googlechrome&logoColor=19A463" /></a>
+&nbsp;
+<a href="https://github.com/MrHassaanX"><img src="https://img.shields.io/badge/GITHUB-MrHassaanX-161B22?style=flat-square&logo=github&logoColor=FFFFFF" /></a>
+&nbsp;
+<a href="mailto:asushassaan016@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-161B22?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### ABOUT
+
+**Computer Science Engineering student at VVCE, building things, learning fast, and always looking for the next thing to ship.**
+
+Currently focused on **JavaScript** and **Node.js**.
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-19A463?style=flat-square&labelColor=0B0F0D" />
+<img src="https://img.shields.io/badge/FOCUS-WEB%20%26%20SOFTWARE-161B22?style=flat-square&labelColor=0B0F0D" />
+<img src="https://img.shields.io/badge/DISCORD-mr.stax-161B22?style=flat-square&logo=discord&logoColor=5865F2" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## `> whoami`
-
-```text
-┌──────────────────────────────────────────────┐
-│  HASSAAN                                     │
-│  ──────────────────────────────────────────  │
-│  ROLE       CSE Student                      │
-│  CAMPUS     VVCE                             │
-│  CURRENT    JavaScript + Node.js             │
-│  BUILDS     Web • Software • Experiments     │
-│  DISCORD    mr.stax                          │
-│  STATUS     ████████████████████ ONLINE      │
-└──────────────────────────────────────────────┘
-```
-
-I'm a Computer Science Engineering student who likes turning ideas into things that actually work.
-
-Right now I'm sharpening **JavaScript** and **Node.js**, while building and experimenting across web development, software and tech.
-
-**Portfolio →** [nothassan.com](https://nothassan.com/)
-
-</td>
-<td width="42%" valign="top">
-
-## `> current_state`
-
-```text
-[ SYSTEM ]
-████████████████████  100%
-
-[ LEARNING ]
-JavaScript    ███████████████░░
-Node.js       ████████████░░░░░
-
-[ BUILD MODE ]
-██████████████████░░  ACTIVE
-
-[ FUN FACT ]
-she's the cutest :))
-```
-
-<br>
-
-### `> connect`
-
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/_ha.zzy__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mrstax)
-[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w)
-[![Discord](https://img.shields.io/badge/Discord-mr.stax-0d1117?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com/)
-
-</td>
-</tr>
-</table>
-
----
-
-## `> loadout`
-
 <div align="center">
+
+### THE LOADOUT
 
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,nodejs,gcp,photoshop,illustrator&theme=dark" />
 
-</div>
+<br><br>
 
-<br>
-
-<table align="center">
-<tr>
-<td align="center"><b>LOW LEVEL</b><br>C · C++</td>
-<td align="center"><b>WEB</b><br>HTML · CSS · JavaScript</td>
-<td align="center"><b>BACKEND</b><br>Node.js</td>
-<td align="center"><b>LANGUAGES</b><br>Java · Python</td>
-<td align="center"><b>CLOUD</b><br>Google Cloud</td>
-<td align="center"><b>DESIGN</b><br>Photoshop · Illustrator</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `> contribution_snake`
-
-<img src="https://raw.githubusercontent.com/MrHassaanX/MrHassaanX/output/github-snake-dark.svg" alt="Hassaan's GitHub contribution snake" width="100%" />
-
-<sub>Every square is a contribution. The snake eats the work.</sub>
+`C / C++` &nbsp;•&nbsp; `HTML / CSS` &nbsp;•&nbsp; `JavaScript` &nbsp;•&nbsp; `Java` &nbsp;•&nbsp; `Python`  
+`Node.js` &nbsp;•&nbsp; `Google Cloud` &nbsp;•&nbsp; `Photoshop` &nbsp;•&nbsp; `Illustrator`
 
 </div>
 
 ---
 
-## `> github_telemetry`
+<div align="center">
+
+### CONTRIBUTION MODE
+
+<img src="https://raw.githubusercontent.com/MrHassaanX/MrHassaanX/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
+
+<sub>My GitHub activity, turned into a game.</sub>
+
+</div>
+
+---
 
 <div align="center">
+
+### GITHUB // LIVE STATS
 
 <a href="https://github.com/MrHassaanX">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrHassaanX&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=2ea043&ring_color=2ea043&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MrHassaanX&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B0F0D&title_color=FFFFFF&text_color=9AA4A0&icon_color=19A463" />
 </a>
+&nbsp;
 <a href="https://github.com/MrHassaanX">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHassaanX&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHassaanX&layout=compact&hide_border=true&bg_color=0B0F0D&title_color=FFFFFF&text_color=9AA4A0&langs_count=7" />
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=MrHassaanX&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=FFFFFF" width="70%" />
+<img src="https://streak-stats.demolab.com?user=MrHassaanX&theme=github-dark-blue&hide_border=true&background=0B0F0D&ring=19A463&fire=19A463&currStreakLabel=FFFFFF" width="72%" />
 
 </div>
 
@@ -138,71 +89,85 @@ she's the cutest :))
 
 <div align="center">
 
-## `> activity_map`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrHassaanX&bg_color=0d1117&color=8b949e&line=2ea043&point=ffffff&area=true&hide_border=true&custom_title=Hassaan%27s%20Contribution%20Activity" width="100%" />
-
-</div>
-
----
+### WHAT I'M BUILDING TOWARD
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-## `> mission_log`
+**01**
 
-**01 — Learn → Build**
+<br>
 
-JavaScript + Node.js are the current targets.
+**LEARN**
 
-**02 — Ship → Iterate**
-
-Build useful things instead of leaving ideas in drafts.
-
-**03 — Keep the streak alive**
-
-Small commits still count. Progress compounds.
+JavaScript  
+Node.js
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-## `> side_quests`
+**02**
 
-🌐 **Portfolio**  
-[nothassan.com](https://nothassan.com/)
+<br>
 
-🎮 **YouTube**  
-[STAX GAMING](https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w)
+**BUILD**
 
-☕ **Support**  
-[Buy Me a Coffee](https://buymeacoffee.com/mrstax)
+Web  
+Software  
+Experiments
 
-💬 **Discord**  
-`mr.stax`
+</td>
+<td align="center" width="33%">
+
+**03**
+
+<br>
+
+**SHIP**
+
+Learn → Build →  
+Improve → Repeat
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-### `GAME OVER?`
+### FIND ME
 
-# **NEVER.**
-
-`keep building // keep learning // keep shipping`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=MrHassaanX&style=for-the-badge&color=2ea043&label=PROFILE+VISITS" />
+<a href="https://instagram.com/_ha.zzy__">
+<img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+<a href="https://www.linkedin.com/in/mrstax">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w">
+<img src="https://img.shields.io/badge/YouTube-161B22?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+</a>
+<a href="https://buymeacoffee.com/mrstax">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-161B22?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" />
+</a>
 
 <br><br>
 
-<a href="https://buymeacoffee.com/mrstax">
-<img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-0d1117?style=for-the-badge&logoColor=ffffff" />
-</a>
+<sub>⚡ fun fact: she's the cutest :))</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MrHassaanX&style=for-the-badge&color=19A463&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<sub><b>MOHAMMED HASSAAN</b> · keep building.</sub>
 
 </div>
