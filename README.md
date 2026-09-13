@@ -153,23 +153,59 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 StaxStudio
+
+A lightweight open-source screen recording and streaming application.
+
 <a href="https://github.com/MrHassaanX/StaxStudio">
-  <img src="https://img.shields.io/badge/StaxStudio-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71" alt="StaxStudio" height="36">
+<img src="https://img.shields.io/badge/View%20Repository-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71">
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Basic Server Setup
+
+A collection of scripts and configurations for setting up and managing servers.
 
 <a href="https://github.com/MrHassaanX/Basic-Server-Setup">
-  <img src="https://img.shields.io/badge/Basic%20Server%20Setup-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71" alt="Basic Server Setup" height="36">
+<img src="https://img.shields.io/badge/View%20Repository-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71">
 </a>
 
-<br><br>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 StaxMC Web
+
+The web interface and frontend for the StaxMC Minecraft network.
 
 <a href="https://github.com/MrHassaanX/staxmc-web-code">
-  <img src="https://img.shields.io/badge/StaxMC%20Web-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71" alt="StaxMC Web" height="36">
+<img src="https://img.shields.io/badge/View%20Repository-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71">
 </a>
 
+</td>
+
+<td width="50%" valign="top">
+
+### ⛏️ VVCE Minecraft Webpage
+
+A Minecraft-themed web project built for the VVCE community.
+
 <a href="https://github.com/MrHassaanX/VVCE-MC-WEBPAGE">
-  <img src="https://img.shields.io/badge/VVCE%20Minecraft%20Webpage-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71" alt="VVCE Minecraft Webpage" height="36">
+<img src="https://img.shields.io/badge/View%20Repository-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71">
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
