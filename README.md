@@ -1,291 +1,208 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:111827,100:1e3a8a&text=HASSAAN&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Developer%20%7C%20CSE%20%7C%20AI%2FML%20%7C%20Creator&descAlignY=62&descSize=17" width="100%" alt="Hassaan header"/>
+# `HASSAAN.exe`
+
+### CSE • Builder • Gamer • Always shipping something
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=180&section=header&text=MRHASSAANX&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20REPEAT&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+
+<br>
 
 <a href="https://github.com/MrHassaanX">
-  <img src="https://komarev.com/ghpvc/?username=MrHassaanX&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/GITHUB-MrHassaanX-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
-&nbsp;
-<a href="https://github.com/MrHassaanX?tab=followers">
-  <img src="https://img.shields.io/github/followers/MrHassaanX?style=flat-square&color=1d4ed8&label=FOLLOWERS" alt="Followers"/>
+<a href="https://nothassan.com/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-nothassan.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d084" />
 </a>
-&nbsp;
-<a href="https://github.com/MrHassaanX?tab=repositories">
-  <img src="https://img.shields.io/github/stars/MrHassaanX?style=flat-square&color=0f172a&label=STARS" alt="Stars"/>
+<a href="mailto:asushassaan016@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" />
 </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Computer+Science+Engineering+Student;Learning+JavaScript+%26+Node.js;Building+projects+and+exploring+new+tech;Code.+Create.+Learn.+Repeat." alt="Typing animation"/>
 
 </div>
+
+---
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-👨‍💻 About Me
+## `> whoami`
 
-Hey! I'm Hassaan — a Computer Science Engineering student at VVCE, currently exploring the world of software development.
+```text
+┌──────────────────────────────────────────────┐
+│  HASSAAN                                     │
+│  ──────────────────────────────────────────  │
+│  ROLE       CSE Student                      │
+│  CAMPUS     VVCE                             │
+│  CURRENT    JavaScript + Node.js             │
+│  BUILDS     Web • Software • Experiments     │
+│  DISCORD    mr.stax                          │
+│  STATUS     ████████████████████ ONLINE      │
+└──────────────────────────────────────────────┘
+```
 
-I'm focused on learning by building, especially around JavaScript, Node.js and modern web development.
+I'm a Computer Science Engineering student who likes turning ideas into things that actually work.
 
-🎓 Pursuing Computer Science Engineering @ VVCE
+Right now I'm sharpening **JavaScript** and **Node.js**, while building and experimenting across web development, software and tech.
 
-🌱 Currently learning JavaScript & Node.js
-
-👨‍💻 Projects & experiments → nothassan.com
-
-💬 Discord → mr.stax
-
-🎨 I also enjoy creative/design work
-
-⚡ Fun fact → She's the cutest :))
+**Portfolio →** [nothassan.com](https://nothassan.com/)
 
 </td>
-
 <td width="42%" valign="top">
 
-⚡ Quick Snapshot
+## `> current_state`
 
-┌────────────────────────────┐
-│        HASSAAN / 01        │
-├────────────────────────────┤
-│ 🎓  CSE @ VVCE             │
-│                            │
-│ 🌱  JavaScript             │
-│     Node.js                │
-│                            │
-│ 💻  C / C++ / Java / Python│
-│                            │
-│ 🌐  Web Development        │
-│                            │
-│ 🎨  Creative / Design      │
-│                            │
-│ 🚀  Learning by building   │
-└────────────────────────────┘
+```text
+[ SYSTEM ]
+████████████████████  100%
+
+[ LEARNING ]
+JavaScript    ███████████████░░
+Node.js       ████████████░░░░░
+
+[ BUILD MODE ]
+██████████████████░░  ACTIVE
+
+[ FUN FACT ]
+she's the cutest :))
+```
+
+<br>
+
+### `> connect`
+
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/_ha.zzy__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mrstax)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w)
+[![Discord](https://img.shields.io/badge/Discord-mr.stax-0d1117?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com/)
 
 </td>
 </tr>
 </table>
 
-🌐 Find Me Around the Internet
+---
+
+## `> loadout`
 
 <div align="center">
 
-<a href="https://nothassan.com/">
-<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=60a5fa" alt="Portfolio"/>
-</a>
-<a href="https://github.com/MrHassaanX">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
-</a>
-<a href="https://instagram.com/_ha.zzy__">
-<img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/mrstax">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"/>
-</a>
-<a href="https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w">
-<img src="https://img.shields.io/badge/YouTube-0f172a?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
-</a>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,nodejs,gcp,photoshop,illustrator&theme=dark" />
 
 </div>
 
-🧰 My Toolbox
+<br>
+
+<table align="center">
+<tr>
+<td align="center"><b>LOW LEVEL</b><br>C · C++</td>
+<td align="center"><b>WEB</b><br>HTML · CSS · JavaScript</td>
+<td align="center"><b>BACKEND</b><br>Node.js</td>
+<td align="center"><b>LANGUAGES</b><br>Java · Python</td>
+<td align="center"><b>CLOUD</b><br>Google Cloud</td>
+<td align="center"><b>DESIGN</b><br>Photoshop · Illustrator</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `> contribution_snake`
+
+<img src="https://raw.githubusercontent.com/MrHassaanX/MrHassaanX/output/github-snake-dark.svg" alt="Hassaan's GitHub contribution snake" width="100%" />
+
+<sub>Every square is a contribution. The snake eats the work.</sub>
+
+</div>
+
+---
+
+## `> github_telemetry`
+
+<div align="center">
+
+<a href="https://github.com/MrHassaanX">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MrHassaanX&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=2ea043&ring_color=2ea043&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/MrHassaanX">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHassaanX&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=8" />
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MrHassaanX&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=FFFFFF" width="70%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `> activity_map`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrHassaanX&bg_color=0d1117&color=8b949e&line=2ea043&point=ffffff&area=true&hide_border=true&custom_title=Hassaan%27s%20Contribution%20Activity" width="100%" />
+
+</div>
+
+---
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-💻 Programming
+## `> mission_log`
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" alt="C C++ Java Python"/>
-</p>
+**01 — Learn → Build**
 
-</td>
+JavaScript + Node.js are the current targets.
 
-<td width="50%" valign="top">
+**02 — Ship → Iterate**
 
-🌐 Web Development
+Build useful things instead of leaving ideas in drafts.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" alt="HTML CSS JavaScript Node.js"/>
-</p>
+**03 — Keep the streak alive**
+
+Small commits still count. Progress compounds.
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-☁️ Cloud
+## `> side_quests`
 
-<p>
-<img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud"/>
-</p>
+🌐 **Portfolio**  
+[nothassan.com](https://nothassan.com/)
 
-</td>
+🎮 **YouTube**  
+[STAX GAMING](https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w)
 
-<td width="50%" valign="top">
+☕ **Support**  
+[Buy Me a Coffee](https://buymeacoffee.com/mrstax)
 
-🎨 Creative Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=ps,ai&theme=dark" alt="Adobe Photoshop and Illustrator"/>
-</p>
+💬 **Discord**  
+`mr.stax`
 
 </td>
 </tr>
 </table>
 
-🧪 Currently Exploring
+---
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+### `GAME OVER?`
 
-01
+# **NEVER.**
 
-🌱
-JavaScript
+`keep building // keep learning // keep shipping`
 
-</td>
-<td align="center" width="25%">
+<br>
 
-02
+<img src="https://komarev.com/ghpvc/?username=MrHassaanX&style=for-the-badge&color=2ea043&label=PROFILE+VISITS" />
 
-🟢
-Node.js
-
-</td>
-<td align="center" width="25%">
-
-03
-
-🌐
-Web Development
-
-</td>
-<td align="center" width="25%">
-
-04
-
-🚀
-New Technologies
-
-</td>
-</tr>
-</table>
-
-</div>
-
-📊 GitHub // Activity
-
-<div align="center">
-
-<a href="https://github.com/MrHassaanX">
-<img src="https://github-readme-stats.vercel.app/api?username=MrHassaanX&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&icon_color=3b82f6&include_all_commits=true&count_private=true&rank_icon=github" height="175" alt="GitHub Statistics"/>
-</a>
-&nbsp;
-<a href="https://github.com/MrHassaanX">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHassaanX&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8&include_all_commits=true&count_private=true" height="175" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=MrHassaanX&hide_border=true&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=60A5FA&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub Streak"/>
-
-</div>
-
-📈 Contribution Timeline
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrHassaanX&bg_color=0d1117&color=94a3b8&line=3b82f6&point=60a5fa&area_color=1e3a8a&area=true&hide_border=true&custom_title=Hassaan%27s%20Contribution%20Timeline" width="95%" alt="Contribution activity graph"/>
-
-</div>
-
-🐍 The Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MrHassaanX/MrHassaanX/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
-
-<sub>Even my contribution graph has a life of its own.</sub>
-
-</div>
-
-🎮 Beyond the Code
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-💻 BUILD
-
-Projects
-Experiments
-Ideas
-
-</td>
-
-<td width="33%" align="center">
-
-🎮 PLAY
-
-Gaming
-Streaming
-Content
-
-</td>
-
-<td width="33%" align="center">
-
-🎨 CREATE
-
-Design
-Visuals
-Creative Work
-
-</td>
-</tr>
-</table>
-
-</div>
-
-🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MrHassaanX&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%" alt="GitHub Trophies"/>
-
-</div>
-
-🔝 Contribution Highlights
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=MrHassaanX&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" width="90%" alt="Top contributed repositories"/>
-
-</div>
-
-<div align="center">
-
-☕ Support the Journey
+<br><br>
 
 <a href="https://buymeacoffee.com/mrstax">
-<img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-0d1117?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00" alt="Buy Me a Coffee"/>
+<img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-0d1117?style=for-the-badge&logoColor=ffffff" />
 </a>
-
-<br/><br/>
-
-Code • Create • Learn • Repeat
-
-<sub>Thanks for stopping by. ❤️</sub>
 
 </div>
