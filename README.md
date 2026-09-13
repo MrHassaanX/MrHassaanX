@@ -2,136 +2,238 @@
 
 <img src="./assets/hero.svg" alt="Mohammed Hassaan — Developer, Programmer, Gamer" width="100%">
 
-<br>
+<br><br>
 
-<a href="https://nothassan.com/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://instagram.com/_ha.zzy__">Instagram</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/mrstax">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w">YouTube</a>
+<a href="https://nothassan.com">
+  <img src="https://img.shields.io/badge/Portfolio-0A0E12?style=for-the-badge&logo=googlechrome&logoColor=2FBF71" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/mrstax">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0E12?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+</a>
+<a href="https://instagram.com/_ha.zzy__">
+  <img src="https://img.shields.io/badge/Instagram-0A0E12?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+</a>
+<a href="https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w">
+  <img src="https://img.shields.io/badge/YouTube-0A0E12?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MrHassaanX&label=Profile%20Views&color=2FBF71&style=flat-square" alt="Profile views">
 
 </div>
 
-<br>
+---
 
-## <img src="https://img.shields.io/badge/-%20-FF8C00?style=flat-square" height="18" alt=""> Currently learning
+## 👋 Hey, I'm Hassaan
+
+I'm a **Developer • Programmer • Gamer** who enjoys building things, experimenting with technology, and turning ideas into projects.
+
+I like working across different areas of software development — from programming and web development to AI/ML and cloud technologies.
+
+### 🧠 Currently Learning
 
 **Machine Learning**
 
 Learning the fundamentals, experimenting with models, and turning what I learn into projects.
 
-<br>
-
 ---
 
-<br>
-
-## <img src="https://img.shields.io/badge/-%20-3B82F6?style=flat-square" height="18" alt=""> What I work with
+## ⚡ Tech Stack
 
 <div align="center">
 
-**Languages**
+<img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70" />
+
 <br>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000" alt="C" height="32">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="32">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="32">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" height="32">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="32">
 
-<br><br>
-
-**Web & Runtime**
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="32">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="32">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="32">
-
-<br><br>
-
-**Cloud & Creative**
-<br>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" height="32">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" height="32">
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" height="32">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
 </div>
 
-<br>
-
 ---
 
-<br>
-
-## <img src="https://img.shields.io/badge/-%20-2FBF71?style=flat-square" height="18" alt=""> GitHub activity
+## 🛠️ What I Work With
 
 <div align="center">
 
-**Contribution Snake**
-
-<img src="https://raw.githubusercontent.com/MrHassaanX/MrHassaanX/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%">
-
-<br><br>
-
-**Streak**
-<br>
-<img src="https://streak-stats.demolab.com/?user=MrHassaanX&theme=dark&background=0A0E12&border=1B2229&stroke=1B2229&ring=2FBF71&fire=FF8C00&currStreakNum=F2F5F7&sideNums=F2F5F7&dates=8A94A0" alt="GitHub streak stats — total contributions, current streak, longest streak">
-
-<br><br>
-
-**Commit Activity**
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrHassaanX&bg_color=0A0E12&color=8A94A0&line=2FBF71&point=F2F5F7&area=true&area_color=2FBF71&title_color=F2F5F7&border_color=1B2229&custom_title=Commit%20Activity" alt="GitHub commit activity graph" width="100%">
-
-<br><br>
-
-**3D Contribution Calendar**
-
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution calendar" width="100%">
-
-<br><br>
-
-**Trophies**
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=MrHassaanX&theme=onedark&no-frame=false&row=1&column=7&margin-w=12" alt="GitHub profile trophies">
+| Development | Tools & Platforms |
+|:---:|:---:|
+| C / C++ | Git & GitHub |
+| Java | Linux |
+| Python | VS Code |
+| JavaScript | Google Cloud |
+| HTML / CSS | Node.js |
+| Machine Learning | AI Tools |
 
 </div>
 
-<br>
-
 ---
 
-<br>
-
-## <img src="https://img.shields.io/badge/-%20-EC4899?style=flat-square" height="18" alt=""> A little about me
-
-I'm a developer who enjoys building things, learning new technologies, and spending an unhealthy amount of time gaming.
-
-**Fun fact:** she's the cutest :))
-
-<br>
-
----
-
-<br>
-
-## <img src="https://img.shields.io/badge/-%20-8B5CF6?style=flat-square" height="18" alt=""> Let's connect
+## 📊 GitHub Overview
 
 <div align="center">
 
-<a href="https://nothassan.com/"><img src="https://img.shields.io/badge/Portfolio-2FBF71?style=for-the-badge&logoColor=white" alt="Portfolio" height="34"></a>
-<a href="https://instagram.com/_ha.zzy__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="34"></a>
-<a href="https://www.linkedin.com/in/mrstax"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="34"></a>
-<a href="https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="34"></a>
-<a href="mailto:asushassaan016@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="34"></a>
-<a href="https://buymeacoffee.com/mrstax"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" height="34"></a>
-<img src="https://img.shields.io/badge/Discord-mr.stax-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: mr.stax" height="34">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrHassaanX&theme=github_dark" width="100%" alt="GitHub Profile Summary">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrHassaanX&theme=github_dark" width="49%" alt="GitHub Statistics">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrHassaanX&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive Time">
 
 </div>
 
-<br>
+---
+
+## 🧩 GitHub Activity
 
 <div align="center">
-<sub>Thanks for stopping by.</sub>
+
+### Contribution Snake
+
+<img src="https://raw.githubusercontent.com/MrHassaanX/MrHassaanX/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+
+<br><br>
+
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com/?user=MrHassaanX&theme=dark&background=0A0E12&border=1B2229&stroke=1B2229&ring=2FBF71&fire=FF8C00&currStreakNum=F2F5F7&sideNums=F2F5F7&dates=8A94A0" width="100%" alt="GitHub Streak">
+
+<br><br>
+
+### Commit Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrHassaanX&bg_color=0A0E12&color=8A94A0&line=2FBF71&point=F2F5F7&area=true&area_color=2FBF71&title_color=F2F5F7&border_color=1B2229&custom_title=Commit%20Activity" width="100%" alt="GitHub Commit Activity">
+
+</div>
+
+---
+
+## 🌐 3D Contribution Calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub Contribution Calendar">
+
+</div>
+
+---
+
+## 🧰 GitHub Profile
+
+<div align="center">
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=MrHassaanX&data=followers,repositories,stars,commits&theme=darkmode" width="100%" alt="GitHub Profile Widget">
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MrHassaanX&theme=onedark&no-frame=true&row=1&column=7&margin-w=12" width="100%" alt="GitHub Trophies">
+
+</div>
+
+---
+
+## ⭐ Star History
+
+<div align="center">
+
+<a href="https://star-history.com/#MrHassaanX/*&Date">
+
+<img src="https://api.star-history.com/image?repos=MrHassaanX/Basic-Server-Setup,MrHassaanX/staxmc-web-code,MrHassaanX/SafteyHubApp&timeline=all" width="100%" alt="Star History">
+
+</a>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MrHassaanX/Basic-Server-Setup">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrHassaanX&repo=Basic-Server-Setup&theme=dark&hide_border=true" alt="Basic Server Setup">
+</a>
+
+<a href="https://github.com/MrHassaanX/SafteyHubApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrHassaanX&repo=SafteyHubApp&theme=dark&hide_border=true" alt="SafetyHubApp">
+</a>
+
+<br>
+
+<a href="https://github.com/MrHassaanX/staxmc-web-code">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrHassaanX&repo=staxmc-web-code&theme=dark&hide_border=true" alt="StaxMC Web">
+</a>
+
+<a href="https://github.com/MrHassaanX/VVCE-MC-WEBPAGE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrHassaanX&repo=VVCE-MC-WEBPAGE&theme=dark&hide_border=true" alt="VVCE Minecraft Webpage">
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://nothassan.com">
+<img src="https://img.shields.io/badge/Portfolio-2FBF71?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://www.linkedin.com/in/mrstax">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://instagram.com/_ha.zzy__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+<a href="mailto:asushassaan016@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://buymeacoffee.com/mrstax">
+<img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee">
+</a>
+
+<br><br>
+
+**Discord:** `mr.stax`
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2FBF71,100:0A0E12&height=100&section=footer">
+
+<sub>Thanks for stopping by. ⭐</sub>
+
 </div>
