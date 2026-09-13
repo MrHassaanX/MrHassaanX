@@ -7,6 +7,7 @@
 
 ## 👋 Hey, I'm Hassaan
 
+
 I'm a **Developer • Programmer • Gamer** who enjoys building things, experimenting with technology, and turning ideas into projects.
 
 I like working across different areas of software development — from programming and web development to AI/ML and cloud technologies.
