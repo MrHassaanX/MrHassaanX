@@ -1,173 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0D,45:111815,100:19A463&height=230&section=header&text=MOHAMMED%20HASSAAN&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=CSE%20STUDENT%20%20%E2%80%A2%20%20BUILDER%20%20%E2%80%A2%20%20GAMER&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
-
-<br>
-
-<img src="https://img.shields.io/badge/OPEN%20TO-BUILDING-19A463?style=for-the-badge&labelColor=0B0F0D" />
-<img src="https://img.shields.io/badge/LEARNING-JAVASCRIPT%20%2B%20NODE.JS-19A463?style=for-the-badge&labelColor=0B0F0D" />
-<img src="https://img.shields.io/badge/BASED%20IN-INDIA-19A463?style=for-the-badge&labelColor=0B0F0D" />
+<img src="./assets/mohammed-hassaan-banner.png" width="100%" alt="MOHAMMED HASSAAN — Developer Programmer Gamer">
 
 <br><br>
-
-<a href="https://nothassan.com/"><img src="https://img.shields.io/badge/PORTFOLIO-nothassan.com-161B22?style=flat-square&logo=googlechrome&logoColor=19A463" /></a>
-&nbsp;
-<a href="https://github.com/MrHassaanX"><img src="https://img.shields.io/badge/GITHUB-MrHassaanX-161B22?style=flat-square&logo=github&logoColor=FFFFFF" /></a>
-&nbsp;
-<a href="mailto:asushassaan016@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-161B22?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### ABOUT
-
-**Computer Science Engineering student at VVCE, building things, learning fast, and always looking for the next thing to ship.**
-
-Currently focused on **JavaScript** and **Node.js**.
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-19A463?style=flat-square&labelColor=0B0F0D" />
-<img src="https://img.shields.io/badge/FOCUS-WEB%20%26%20SOFTWARE-161B22?style=flat-square&labelColor=0B0F0D" />
-<img src="https://img.shields.io/badge/DISCORD-mr.stax-161B22?style=flat-square&logo=discord&logoColor=5865F2" />
-
-</div>
-
----
-
-<div align="center">
-
-### THE LOADOUT
-
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,nodejs,gcp,photoshop,illustrator&theme=dark" />
-
-<br><br>
-
-`C / C++` &nbsp;•&nbsp; `HTML / CSS` &nbsp;•&nbsp; `JavaScript` &nbsp;•&nbsp; `Java` &nbsp;•&nbsp; `Python`  
-`Node.js` &nbsp;•&nbsp; `Google Cloud` &nbsp;•&nbsp; `Photoshop` &nbsp;•&nbsp; `Illustrator`
-
-</div>
-
----
-
-<div align="center">
-
-### CONTRIBUTION MODE
-
-<img src="https://raw.githubusercontent.com/MrHassaanX/MrHassaanX/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
-
-<sub>My GitHub activity, turned into a game.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-### GITHUB // LIVE STATS
 
 <a href="https://github.com/MrHassaanX">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MrHassaanX&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B0F0D&title_color=FFFFFF&text_color=9AA4A0&icon_color=19A463" />
+  <img src="https://img.shields.io/badge/GITHUB-MrHassaanX-11161D?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
-&nbsp;
-<a href="https://github.com/MrHassaanX">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHassaanX&layout=compact&hide_border=true&bg_color=0B0F0D&title_color=FFFFFF&text_color=9AA4A0&langs_count=7" />
+<a href="https://nothassan.com/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-NOTHASSAN.COM-11161D?style=for-the-badge&logo=googlechrome&logoColor=2EA043">
 </a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=MrHassaanX&theme=github-dark-blue&hide_border=true&background=0B0F0D&ring=19A463&fire=19A463&currStreakLabel=FFFFFF" width="72%" />
+<a href="mailto:asushassaan016@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-11161D?style=for-the-badge&logo=gmail&logoColor=EA4335">
+</a>
 
 </div>
 
----
+<br>
 
-<div align="center">
-
-### WHAT I'M BUILDING TOWARD
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td width="58%" valign="top">
 
-**01**
+## HELLO, I'M HASSAAN
 
-<br>
+I enjoy **coding, building, experimenting, and figuring things out**.
 
-**LEARN**
+I like taking an idea and turning it into something that actually works — from web projects and software experiments to whatever I'm curious about next.
 
-JavaScript  
-Node.js
+**Currently learning:** Machine Learning
 
-</td>
-<td align="center" width="33%">
+**Currently building:** Web & software projects
 
-**02**
-
-<br>
-
-**BUILD**
-
-Web  
-Software  
-Experiments
+**Always improving:** Programming, problem solving & development
 
 </td>
-<td align="center" width="33%">
 
-**03**
+<td width="42%" valign="top">
 
-<br>
+### QUICK PROFILE
 
-**SHIP**
+```text
+NAME        Mohammed Hassaan
+ROLE        Developer
+            Programmer
+            Gamer
 
-Learn → Build →  
-Improve → Repeat
+FOCUS       Machine Learning
+BUILDING    Web + Software
+MINDSET     Learn → Build → Improve
+```
 
 </td>
 </tr>
 </table>
 
+---
+
+## THE CURRENT MODE
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+
+### 01
+**LEARN**
+
+Machine Learning  
+AI / ML concepts
+
+</td>
+<td align="center" width="25%">
+
+### 02
+**CODE**
+
+Write  
+Experiment  
+Solve
+
+</td>
+<td align="center" width="25%">
+
+### 03
+**BUILD**
+
+Web projects  
+Software  
+Ideas
+
+</td>
+<td align="center" width="25%">
+
+### 04
+**SHIP**
+
+Make it work  
+Make it better  
+Repeat
+
+</td>
+</tr>
+</table>
+
+---
+
+## TOOLS I WORK WITH
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,nodejs,gcp,photoshop,illustrator&theme=dark" />
+
+<br><br>
+
+`C` · `C++` · `HTML` · `CSS` · `JavaScript` · `Java` · `Python` · `Node.js` · `Google Cloud` · `Photoshop` · `Illustrator`
+
 </div>
 
 ---
 
+## CONTRIBUTION SNAKE
+
 <div align="center">
 
-### FIND ME
+<img src="https://raw.githubusercontent.com/MrHassaanX/MrHassaanX/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake">
 
-<a href="https://instagram.com/_ha.zzy__">
-<img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
-<a href="https://www.linkedin.com/in/mrstax">
-<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w">
-<img src="https://img.shields.io/badge/YouTube-161B22?style=for-the-badge&logo=youtube&logoColor=FF0000" />
-</a>
-<a href="https://buymeacoffee.com/mrstax">
-<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-161B22?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" />
-</a>
+<br>
 
-<br><br>
-
-<sub>⚡ fun fact: she's the cutest :))</sub>
+<sub><b>Every commit leaves a trail.</b></sub>
 
 </div>
 
 ---
 
+## GITHUB ACTIVITY
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MrHassaanX&style=for-the-badge&color=19A463&label=PROFILE+VIEWS" />
+<a href="https://github.com/MrHassaanX">
+<img src="https://github-readme-stats.vercel.app/api?username=MrHassaanX&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=2EA043">
+</a>
+
+<a href="https://github.com/MrHassaanX">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHassaanX&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E">
+</a>
 
 <br><br>
 
-<sub><b>MOHAMMED HASSAAN</b> · keep building.</sub>
+<img src="https://streak-stats.demolab.com?user=MrHassaanX&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=F0F6FC" width="72%">
+
+</div>
+
+---
+
+## A FEW THINGS ABOUT ME
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+### 🎮 GAMER
+
+Coding isn't the only thing I spend time on.
+
+Games are part of the routine too.
+
+</td>
+<td align="center" width="33%">
+
+### 🧠 CURIOUS
+
+If something looks interesting,
+I'll probably try to build it,
+break it, or learn how it works.
+
+</td>
+<td align="center" width="33%">
+
+### ❤️ PLOT TWIST
+
+**She is the cutest :))**
+
+No further questions.
+
+</td>
+</tr>
+</table>
+
+---
+
+## FIND ME AROUND THE INTERNET
+
+<div align="center">
+
+[🌐 **Portfolio**](https://nothassan.com/)  
+[📸 **Instagram**](https://instagram.com/_ha.zzy__) ·
+[💼 **LinkedIn**](https://www.linkedin.com/in/mrstax) ·
+[▶️ **YouTube**](https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w) ·
+[💬 **Discord**](https://discord.com/) ·
+[☕ **Buy Me a Coffee**](https://buymeacoffee.com/mrstax)
+
+<br><br>
+
+### `DEVELOPER • PROGRAMMER • GAMER`
+
+<sub>Learn something. Build something. Ship something.</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MrHassaanX&style=flat-square&color=2ea043&label=PROFILE+VIEWS">
 
 </div>
