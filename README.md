@@ -4,24 +4,6 @@
 
 <br><br>
 
-<a href="https://nothassan.com">
-  <img src="https://img.shields.io/badge/Portfolio-0A0E12?style=for-the-badge&logo=googlechrome&logoColor=2FBF71" alt="Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/mrstax">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0E12?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-</a>
-<a href="https://instagram.com/_ha.zzy__">
-  <img src="https://img.shields.io/badge/Instagram-0A0E12?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
-</a>
-<a href="https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w">
-  <img src="https://img.shields.io/badge/YouTube-0A0E12?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MrHassaanX&label=Profile%20Views&color=2FBF71&style=flat-square" alt="Profile views">
-
-</div>
 
 ---
 
