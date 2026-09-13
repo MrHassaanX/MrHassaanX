@@ -74,9 +74,27 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <br><br>
 
+**Streak**
+<br>
+<img src="https://streak-stats.demolab.com/?user=MrHassaanX&theme=dark&background=0A0E12&border=1B2229&stroke=1B2229&ring=2FBF71&fire=FF8C00&currStreakNum=F2F5F7&sideNums=F2F5F7&dates=8A94A0" alt="GitHub streak stats — total contributions, current streak, longest streak">
+
+<br><br>
+
+**Commit Activity**
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrHassaanX&bg_color=0A0E12&color=8A94A0&line=2FBF71&point=F2F5F7&area=true&area_color=2FBF71&title_color=F2F5F7&border_color=1B2229&custom_title=Commit%20Activity" alt="GitHub commit activity graph" width="100%">
+
+<br><br>
+
 **3D Contribution Calendar**
 
 <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution calendar" width="100%">
+
+<br><br>
+
+**Trophies**
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=MrHassaanX&theme=onedark&no-frame=false&row=1&column=7&margin-w=12" alt="GitHub profile trophies">
 
 </div>
 
