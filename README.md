@@ -44,15 +44,86 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,nodejs&theme=dark&perline=8" alt="My Tech Stack">
-</a>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="50"><br>
+<sub><b>C</b></sub>
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"><br>
+<sub><b>C++</b></sub>
+</td>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,gcp,vscode,ps,ai&theme=dark&perline=7" alt="Tools and Technologies">
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"><br>
+<sub><b>Java</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=py&theme=dark" width="50"><br>
+<sub><b>Python</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"><br>
+<sub><b>JavaScript</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"><br>
+<sub><b>HTML</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"><br>
+<sub><b>CSS</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50"><br>
+<sub><b>Node.js</b></sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"><br>
+<sub><b>Git</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"><br>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"><br>
+<sub><b>Linux</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="50"><br>
+<sub><b>Google Cloud</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50"><br>
+<sub><b>VS Code</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ps&theme=dark" width="50"><br>
+<sub><b>Photoshop</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ai&theme=dark" width="50"><br>
+<sub><b>Illustrator</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -106,11 +177,6 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <br><br>
 
-### Commit Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrHassaanX&bg_color=0A0E12&color=8A94A0&line=2FBF71&point=F2F5F7&area=true&area_color=2FBF71&title_color=F2F5F7&border_color=1B2229&custom_title=Commit%20Activity" width="100%" alt="GitHub Commit Activity">
-
-</div>
 
 ---
 
