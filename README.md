@@ -46,6 +46,7 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <table>
 <tr>
+
 <td align="center">
 <img src="https://skillicons.dev/icons?i=c&theme=dark" width="50"><br>
 <sub><b>C</b></sub>
@@ -67,11 +68,6 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"><br>
-<sub><b>JavaScript</b></sub>
-</td>
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"><br>
 <sub><b>HTML</b></sub>
 </td>
@@ -82,12 +78,24 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"><br>
+<sub><b>JavaScript</b></sub>
+</td>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50"><br>
 <sub><b>Node.js</b></sub>
 </td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"><br>
+<sub><b>React</b></sub>
+</td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"><br>
 <sub><b>Git</b></sub>
@@ -99,29 +107,35 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"><br>
-<sub><b>Linux</b></sub>
-</td>
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="50"><br>
 <sub><b>Google Cloud</b></sub>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50"><br>
-<sub><b>VS Code</b></sub>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50"><br>
+<sub><b>AWS</b></sub>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=ps&theme=dark" width="50"><br>
+<img src="https://skillicons.dev/icons?i=discordjs&theme=dark" width="50"><br>
+<sub><b>Discord.js</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"><br>
+<sub><b>MySQL</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=photoshop&theme=dark" width="50"><br>
 <sub><b>Photoshop</b></sub>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=ai&theme=dark" width="50"><br>
-<sub><b>Illustrator</b></sub>
+<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="50"><br>
+<sub><b>Gradle</b></sub>
 </td>
+
 </tr>
 </table>
 
