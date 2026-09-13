@@ -1,10 +1,12 @@
-<<<<<<< HEAD
 <svg width="1000" height="200" viewBox="0 0 1000 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mohammed Hassaan — Developer, Programmer, Gamer">
   <defs>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(930 20) rotate(135) scale(420 260)">
       <stop offset="0" stop-color="#2FBF71" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#2FBF71" stop-opacity="0"/>
     </radialGradient>
+    <clipPath id="langbar">
+      <rect x="52" y="168" width="896" height="6" rx="3"/>
+    </clipPath>
   </defs>
 
   <rect width="1000" height="200" rx="14" fill="#0A0E12"/>
@@ -18,40 +20,13 @@
   <text x="52" y="98" fill="#F2F5F7" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="0.5">MOHAMMED HASSAAN</text>
   <text x="53" y="128" fill="#8A94A0" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="2.5">DEVELOPER · PROGRAMMER · GAMER</text>
 
-  <rect x="53" y="146" width="46" height="3" rx="1.5" fill="#2FBF71"/>
-=======
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Mohammed Hassaan</title>
-  <desc id="desc">Developer, programmer, and gamer</desc>
-  <defs>
-    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#090C10"/>
-      <stop offset="1" stop-color="#10151B"/>
-    </linearGradient>
-    <linearGradient id="signal" x1="86" y1="0" x2="1114" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#39D353" stop-opacity="0"/>
-      <stop offset="0.18" stop-color="#39D353"/>
-      <stop offset="0.82" stop-color="#58A6FF"/>
-      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="18"/>
-    </filter>
-  </defs>
-  <rect width="1200" height="300" rx="8" fill="url(#surface)"/>
-  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="7.25" stroke="#30363D" stroke-width="1.5"/>
-  <path d="M86 70H1114" stroke="#21262D"/>
-  <path d="M86 230H1114" stroke="#21262D"/>
-  <path d="M86 230H1114" stroke="url(#signal)" stroke-width="2"/>
-  <circle cx="1038" cy="42" r="3.5" fill="#30363D"/>
-  <circle cx="1056" cy="42" r="3.5" fill="#30363D"/>
-  <circle cx="1074" cy="42" r="3.5" fill="#39D353"/>
-  <circle cx="1092" cy="42" r="3.5" fill="#58A6FF"/>
-  <circle cx="952" cy="151" r="80" fill="#39D353" fill-opacity="0.035" filter="url(#soft)"/>
-  <text x="86" y="154" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="3">MOHAMMED HASSAAN</text>
-  <text x="89" y="190" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="4">DEVELOPER  •  PROGRAMMER  •  GAMER</text>
-  <text x="86" y="266" fill="#484F58" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1">MRHASSAANX / PROFILE</text>
-  <path d="M1088 254L1098 264L1088 274" stroke="#39D353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M1104 274H1118" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
->>>>>>> 7af34eb225bd7a823f8bd32182093ffd601a8f99
+  <!-- language mix, in the actual colors GitHub uses for these languages -->
+  <g clip-path="url(#langbar)">
+    <rect x="52"  y="168" width="251" height="6" fill="#3572A5"/>
+    <rect x="303" y="168" width="215" height="6" fill="#F1E05A"/>
+    <rect x="518" y="168" width="179" height="6" fill="#B07219"/>
+    <rect x="697" y="168" width="143" height="6" fill="#F34B7D"/>
+    <rect x="840" y="168" width="108" height="6" fill="#555555"/>
+  </g>
+  <text x="52" y="188" fill="#6E7681" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1">PYTHON · JAVASCRIPT · JAVA · C++ · C</text>
 </svg>
