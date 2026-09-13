@@ -1,36 +1,33 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-<stop stop-color="#080C0F"/>
-<stop offset="0.62" stop-color="#0B1110"/>
-<stop offset="1" stop-color="#073B24"/>
-</linearGradient>
-<linearGradient id="glow" x1="720" y1="40" x2="1180" y2="300" gradientUnits="userSpaceOnUse">
-<stop stop-color="#2EA043" stop-opacity="0"/>
-<stop offset="1" stop-color="#2EA043" stop-opacity=".32"/>
-</linearGradient>
-<filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330">
+    <stop offset="0" stop-color="#070A0D"/>
+    <stop offset="0.72" stop-color="#0B1110"/>
+    <stop offset="1" stop-color="#082D1D"/>
+  </linearGradient>
+  <radialGradient id="light" cx="0" cy="0" r="1" gradientTransform="translate(1030 95) rotate(130) scale(380 300)">
+    <stop stop-color="#20C767" stop-opacity=".25"/>
+    <stop offset="1" stop-color="#20C767" stop-opacity="0"/>
+  </radialGradient>
 </defs>
 
-<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
-<rect x="1" y="1" width="1198" height="358" rx="19" stroke="#20352B"/>
+<rect width="1200" height="330" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="16" fill="url(#light)"/>
+<path d="M0 275C190 245 350 298 525 274C715 248 865 295 1200 232" stroke="#2EA043" stroke-opacity=".25" stroke-width="2"/>
+<path d="M0 294C210 263 350 315 555 288C760 261 925 308 1200 251" stroke="#2EA043" stroke-opacity=".09" stroke-width="1"/>
 
-<path d="M735 0H1200V360C1030 310 930 270 735 285V0Z" fill="url(#glow)"/>
-<path d="M0 310C230 270 410 330 650 290C860 255 1030 310 1200 265" stroke="#2EA043" stroke-opacity=".22" stroke-width="2"/>
+<g opacity=".16" fill="#2EA043">
+  <circle cx="1000" cy="74" r="3"/><circle cx="1030" cy="74" r="3"/><circle cx="1060" cy="74" r="3"/>
+  <circle cx="1000" cy="104" r="3"/><circle cx="1030" cy="104" r="3"/><circle cx="1060" cy="104" r="3"/>
+  <circle cx="1000" cy="134" r="3"/><circle cx="1030" cy="134" r="3"/><circle cx="1060" cy="134" r="3"/>
+</g>
 
-<circle cx="1050" cy="100" r="72" stroke="#2EA043" stroke-opacity=".10" stroke-width="2"/>
-<circle cx="1050" cy="100" r="106" stroke="#2EA043" stroke-opacity=".055" stroke-width="2"/>
-
-<text x="72" y="70" fill="#2EA043" font-family="monospace" font-size="19">&gt; profile.init()</text>
-
-<text x="70" y="165" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="800" letter-spacing="1">MOHAMMED HASSAAN</text>
-
-<text x="73" y="213" fill="#D0D7DE" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">DEVELOPER  •  PROGRAMMER  •  GAMER</text>
-
-<text x="73" y="258" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="18">Currently learning Machine Learning • Building things with code</text>
-
-<rect x="73" y="292" width="205" height="4" rx="2" fill="#2EA043"/>
-<rect x="73" y="292" width="110" height="4" rx="2" fill="#5BE37B" filter="url(#blur)"/>
-
-<text x="1120" y="312" fill="#2EA043" font-family="monospace" font-size="14" text-anchor="middle">BUILD / LEARN / REPEAT</text>
+<text x="70" y="66" fill="#2EA043" font-family="monospace" font-size="17">&gt; hello, world.</text>
+<text x="68" y="151" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">MOHAMMED HASSAAN</text>
+<text x="71" y="198" fill="#D0D7DE" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">DEVELOPER  •  PROGRAMMER  •  GAMER</text>
+<text x="71" y="239" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="18">Learning Machine Learning · building with code</text>
+<rect x="71" y="273" width="185" height="3" rx="1.5" fill="#2EA043"/>
+<text x="1128" y="284" fill="#2EA043" font-family="monospace" font-size="13" text-anchor="end">01 / BUILD</text>
+<text x="1128" y="304" fill="#6E7681" font-family="monospace" font-size="13" text-anchor="end">02 / LEARN</text>
+<text x="1128" y="324" fill="#6E7681" font-family="monospace" font-size="13" text-anchor="end">03 / REPEAT</text>
 </svg>
