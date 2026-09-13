@@ -1,78 +1,60 @@
 <div align="center">
 
-# MOHAMMED HASSAAN
+<img src="./assets/hero.svg" alt="Mohammed Hassaan" width="100%">
 
-### DEVELOPER • PROGRAMMER • GAMER
+<br>
 
-Building things, breaking things, and learning how to build them better.
-
-<p>
-  <a href="https://nothassan.com/">Projects</a>
-  •
-  <a href="https://instagram.com/_ha.zzy__">Instagram</a>
-  •
-  <a href="https://www.linkedin.com/in/mrstax">LinkedIn</a>
-  •
-  <a href="https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w">YouTube</a>
-</p>
+<a href="https://nothassan.com/">Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://instagram.com/_ha.zzy__">Instagram</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/mrstax">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w">YouTube</a>
 
 </div>
 
----
+<br>
 
 ## CURRENTLY LEARNING
 
 **Machine Learning**
 
-Exploring how intelligent systems work and building projects along the way.
+Learning the fundamentals, experimenting with models, and turning what I learn into projects.
 
 ---
 
-## TECH STACK
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Languages
-
-- C
-- C++
-- Java
-- JavaScript
-- Python
-
-</td>
-<td valign="top" width="50%">
-
-### Web / Cloud / Creative
-
-- HTML5
-- CSS3
-- Node.js
-- Google Cloud
-- Adobe Photoshop
-- Adobe Illustrator
-
-</td>
-</tr>
-</table>
-
----
-
-## CONTRIBUTION SNAKE
+## WHAT I WORK WITH
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MrHassaanX/MrHassaanX/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%">
+### Languages
+
+`C` `C++` `Java` `JavaScript` `Python`
+
+### Web & Runtime
+
+`HTML5` `CSS3` `Node.js`
+
+### Cloud & Creative
+
+`Google Cloud` `Adobe Photoshop` `Adobe Illustrator`
 
 </div>
 
 ---
 
-## 3D CONTRIBUTION CALENDAR
+## GITHUB ACTIVITY
 
 <div align="center">
+
+### Contribution Snake
+
+<img src="https://raw.githubusercontent.com/MrHassaanX/MrHassaanX/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%">
+
+<br><br>
+
+### 3D Contribution Calendar
 
 <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution calendar" width="100%">
 
@@ -80,26 +62,11 @@ Exploring how intelligent systems work and building projects along the way.
 
 ---
 
-## GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrHassaanX&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="60%">
-
-</div>
-
----
-
 ## A LITTLE ABOUT ME
 
-```text
-> developer
-> programmer
-> gamer
-> always building something
-```
+I'm a developer who enjoys building things, learning new technologies, and spending an unhealthy amount of time gaming.
 
-**Fun fact:** She's the cutest :))
+**Fun fact:** she's the cutest :))
 
 ---
 
@@ -107,28 +74,26 @@ Exploring how intelligent systems work and building projects along the way.
 
 <div align="center">
 
-<a href="https://nothassan.com/">Portfolio</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://nothassan.com/">Website</a>
+&nbsp;·&nbsp;
 <a href="https://instagram.com/_ha.zzy__">Instagram</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/mrstax">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;·&nbsp;
 <a href="https://youtube.com/@UCVlWxM5kqNCNmCF8gVpRW2w">YouTube</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;·&nbsp;
 <a href="mailto:asushassaan016@gmail.com">Email</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;·&nbsp;
 <a href="https://buymeacoffee.com/mrstax">Buy Me a Coffee</a>
 
 <br><br>
 
-**Discord:** `mr.stax`
+`Discord: mr.stax`
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-<sub>Built with code, curiosity, and way too much coffee.</sub>
-
+<sub>Thanks for stopping by.</sub>
 </div>
