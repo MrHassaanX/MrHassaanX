@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="./assets/hero.svg" alt="Mohammed Hassaan — Developer, Programmer, Gamer" width="100%">
-
 <br><br>
-
 ---
 
 ## 👋 Hey, I'm Hassaan
