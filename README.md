@@ -16,7 +16,7 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/-%20-FF8C00?style=flat-square" height="18" alt=""> Currently learning
+## <img src="https://img.shields.io/badge/-%20-FF8C00?style=flat-square" height="18" alt=""> Currently learning
 
 **Machine Learning**
 
@@ -24,26 +24,34 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <br>
 
-### <img src="https://img.shields.io/badge/-%20-3B82F6?style=flat-square" height="18" alt=""> What I work with
+---
+
+<br>
+
+## <img src="https://img.shields.io/badge/-%20-3B82F6?style=flat-square" height="18" alt=""> What I work with
 
 <div align="center">
 
 **Languages**
-
+<br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000" alt="C" height="32">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="32">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="32">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" height="32">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="32">
 
-**Web & Runtime**
+<br><br>
 
+**Web & Runtime**
+<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="32">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="32">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="32">
 
-**Cloud & Creative**
+<br><br>
 
+**Cloud & Creative**
+<br>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" height="32">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" height="32">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" height="32">
@@ -52,7 +60,11 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <br>
 
-### <img src="https://img.shields.io/badge/-%20-2FBF71?style=flat-square" height="18" alt=""> GitHub activity
+---
+
+<br>
+
+## <img src="https://img.shields.io/badge/-%20-2FBF71?style=flat-square" height="18" alt=""> GitHub activity
 
 <div align="center">
 
@@ -70,7 +82,11 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <br>
 
-### <img src="https://img.shields.io/badge/-%20-EC4899?style=flat-square" height="18" alt=""> A little about me
+---
+
+<br>
+
+## <img src="https://img.shields.io/badge/-%20-EC4899?style=flat-square" height="18" alt=""> A little about me
 
 I'm a developer who enjoys building things, learning new technologies, and spending an unhealthy amount of time gaming.
 
@@ -78,7 +94,11 @@ I'm a developer who enjoys building things, learning new technologies, and spend
 
 <br>
 
-### <img src="https://img.shields.io/badge/-%20-8B5CF6?style=flat-square" height="18" alt=""> Let's connect
+---
+
+<br>
+
+## <img src="https://img.shields.io/badge/-%20-8B5CF6?style=flat-square" height="18" alt=""> Let's connect
 
 <div align="center">
 
