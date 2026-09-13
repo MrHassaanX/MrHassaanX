@@ -25,6 +25,7 @@
 
 ---
 
+
 ## 👋 Hey, I'm Hassaan
 
 I'm a **Developer • Programmer • Gamer** who enjoys building things, experimenting with technology, and turning ideas into projects.
@@ -133,15 +134,6 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MrHassaanX&theme=onedark&no-frame=true&row=1&column=7&margin-w=12" width="100%" alt="GitHub Trophies">
-
-</div>
-
----
 
 ## ⭐ Star History
 
@@ -213,7 +205,9 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <br><br>
 
-**Discord:** `mr.stax`
+<a href="https://discord.com/users/mr.stax">
+  <img src="https://img.shields.io/badge/Discord-mr.stax-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 </div>
 
