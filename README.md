@@ -281,7 +281,7 @@ A Minecraft-themed web project built for the VVCE community.
 <div align="center">
 
 <a href="https://nothassan.com">
-<img src="https://img.shields.io/badge/Portfolio-2FBF71?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-2FBF71?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio ">
 </a>
 
 <a href="https://www.linkedin.com/in/mrstax">
