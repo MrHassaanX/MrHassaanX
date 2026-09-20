@@ -72,6 +72,11 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 <sub><b>Node.js</b></sub>
 </td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50"><br>
+<sub><b>TypeScript</b></sub>
+</td>
+
 </tr>
 
 <tr>
@@ -102,23 +107,13 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=discordjs&theme=dark" width="50"><br>
-<sub><b>Discord.js</b></sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50"><br>
-<sub><b>TypeScript</b></sub>
-</td>
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="50"><br>
 <sub><b>SQLite</b></sub>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=tauri&theme=dark" width="50"><br>
-<sub><b>Tauri</b></sub>
+<img src="https://skillicons.dev/icons?i=discordjs&theme=dark" width="50"><br>
+<sub><b>Discord.js</b></sub>
 </td>
 
 <td align="center">
