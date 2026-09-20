@@ -107,6 +107,21 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50"><br>
+<sub><b>TypeScript</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="50"><br>
+<sub><b>SQLite</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tauri&theme=dark" width="50"><br>
+<sub><b>Tauri</b></sub>
+</td>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="50"><br>
 <sub><b>Google Cloud</b></sub>
 </td>
