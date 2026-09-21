@@ -316,7 +316,7 @@ A Minecraft-themed web project built for the VVCE community.
 
 <br><br>
 
-<a href="https://discord.com/users/mr.stax">
+<a href="https://discord.dog/761530359849812010">
   <img src="https://img.shields.io/badge/Discord-mr.stax-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
