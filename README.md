@@ -234,7 +234,7 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 ### 🎥 StaxStudio
 
-A lightweight open-source screen recording and streaming application.
+A lightweight, Windows-first, open-source screen recording and live-streaming application.
 
 <a href="https://github.com/MrHassaanX/StaxStudio">
 <img src="https://img.shields.io/badge/View%20Repository-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71">
@@ -244,11 +244,11 @@ A lightweight open-source screen recording and streaming application.
 
 <td width="50%" valign="top">
 
-### ⚙️ Basic Server Setup
+### 🧠 StaxOne
 
-A collection of scripts and configurations for setting up and managing servers.
+An intelligent desktop assistant designed to understand, organize, search, and manage files using natural language.
 
-<a href="https://github.com/MrHassaanX/Basic-Server-Setup">
+<a href="https://github.com/MrHassaanX/StaxOne">
 <img src="https://img.shields.io/badge/View%20Repository-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71">
 </a>
 
@@ -258,11 +258,11 @@ A collection of scripts and configurations for setting up and managing servers.
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 StaxMC Web
+### ⚔️ SolaceRanks
 
-The web interface and frontend for the StaxMC Minecraft network.
+An advancement-based rank progression plugin for Minecraft servers with LuckPerms integration and configurable progression.
 
-<a href="https://github.com/MrHassaanX/staxmc-web-code">
+<a href="https://github.com/MrHassaanX/SolaceRanks">
 <img src="https://img.shields.io/badge/View%20Repository-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71">
 </a>
 
@@ -270,11 +270,11 @@ The web interface and frontend for the StaxMC Minecraft network.
 
 <td width="50%" valign="top">
 
-### ⛏️ VVCE Minecraft Webpage
+### ⚙️ Basic Server Setup
 
-A Minecraft-themed web project built for the VVCE community.
+A collection of configurations and resources for quickly setting up a basic Minecraft server.
 
-<a href="https://github.com/MrHassaanX/VVCE-MC-WEBPAGE">
+<a href="https://github.com/MrHassaanX/Basic-Server-Setup">
 <img src="https://img.shields.io/badge/View%20Repository-0A0E12?style=for-the-badge&logo=github&logoColor=2FBF71">
 </a>
 
