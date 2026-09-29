@@ -214,7 +214,7 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 <div align="center">
 
-<a href="https://star-history.com/#MrHassaanX/*&Date">
+<a href="https://www.star-history.com/?repos=MrHassaanX%2F*&type=date&legend=top-left">
 
 <img src="https://api.star-history.com/image?repos=MrHassaanX/StaxStudio,MrHassaanX/StaxOne,MrHassaanX/SolaceRanks&timeline=all" width="100%" alt="Star History">
 
