@@ -33,11 +33,6 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"><br>
-<sub><b>C++</b></sub>
-</td>
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"><br>
 <sub><b>Java</b></sub>
 </td>
@@ -45,6 +40,11 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 <td align="center">
 <img src="https://skillicons.dev/icons?i=py&theme=dark" width="50"><br>
 <sub><b>Python</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="50"><br>
+<sub><b>PHP</b></sub>
 </td>
 
 <td align="center">
@@ -63,9 +63,23 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50"><br>
+<sub><b>TypeScript</b></sub>
+</td>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"><br>
 <sub><b>React</b></sub>
 </td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50"><br>
+<sub><b>Next.js</b></sub>
+</td>
+
+</tr>
+
+<tr>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50"><br>
@@ -73,13 +87,14 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50"><br>
-<sub><b>TypeScript</b></sub>
+<img src="https://skillicons.dev/icons?i=discordjs&theme=dark" width="50"><br>
+<sub><b>Discord.js</b></sub>
 </td>
 
-</tr>
-
-<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"><br>
+<sub><b>MySQL</b></sub>
+</td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"><br>
@@ -92,28 +107,8 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="50"><br>
-<sub><b>IntelliJ IDEA</b></sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="50"><br>
-<sub><b>Gradle</b></sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"><br>
-<sub><b>MySQL</b></sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="50"><br>
-<sub><b>SQLite</b></sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=discordjs&theme=dark" width="50"><br>
-<sub><b>Discord.js</b></sub>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50"><br>
+<sub><b>Docker</b></sub>
 </td>
 
 <td align="center">
@@ -124,6 +119,11 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 <td align="center">
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50"><br>
 <sub><b>AWS</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="50"><br>
+<sub><b>Gradle</b></sub>
 </td>
 
 <td align="center">
@@ -144,9 +144,10 @@ Learning the fundamentals, experimenting with models, and turning what I learn i
 
 | Development | Tools & Platforms |
 |:---:|:---:|
-| C / C++ | Git & GitHub |
-| Java | Linux |
-| Python | VS Code |
+| C | Git & GitHub |
+| Java | Docker |
+| Python | Linux |
+| PHP | VS Code |
 | JavaScript | Google Cloud |
 | HTML / CSS | Node.js |
 | Machine Learning | AI Tools |
